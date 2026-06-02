@@ -1,0 +1,5 @@
+.venv
+enunciado.pdf
+output/
+__pycache__/
+*.docx
