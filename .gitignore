@@ -3,3 +3,4 @@ enunciado.pdf
 output/
 __pycache__/
 *.docx
+.DS_Store
